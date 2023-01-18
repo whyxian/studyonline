@@ -6,7 +6,7 @@
         <groupId>com.studyonline</groupId>
         <artifactId>studyonline-parent</artifactId>
         <version>0.0.1-SNAPSHOT</version>
-        <relativePath>../studyonline-parent</relativePath> <!-- lookup parent from repository -->
+        <relativePath>../../studyonline-parent</relativePath> <!-- lookup parent from repository -->
     </parent>
 
 
